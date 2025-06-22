@@ -17,7 +17,7 @@ A modular C++ system for coordinating autonomous drones using a microservice arc
 - Obstacle avoidance
 - Object detection from onboard camera
 
-### Microservices
+### Modules (Microservices)
 1. **Drone Controller**
    - Issues commands to drones
 2. **Navigation**
